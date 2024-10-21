@@ -20,7 +20,8 @@ dependencies:
   image_gallery_saver:
     git: https://github.com/syedmubashiralii/image_gallery_saver.git
   
-  vs_media_picker: ^1.0.1
+  vs_media_picker:
+    git: https://github.com/syedmubashiralii/vs_media_picker.git
   # gallery_media_picker: 0.0.82
 
   # modal_gif_picker: ^0.0.2
